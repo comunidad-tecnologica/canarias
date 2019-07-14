@@ -18,7 +18,7 @@ Lista de eventos que se celebran todos los años en Canarias y de los que puedes
 * [TLPInnova](https://tlp-tenerife.com/tlpinnova/)
 * [AdaLoversConf](http://adaloversconf.es)
 * [JSDayCanarias](https://jsdaycanarias.com/)
-* [PyDay](pycan.es/pyday)
+* [PyDay](https://pycan.es/pyday)
 * [WTM Tenerife](http://cryptull.webs.ull.es/WTMTenerife2019/)
 
 ## :computer: Comunidades
@@ -33,3 +33,6 @@ Lista de eventos que se celebran todos los años en Canarias y de los que puedes
 * [PythonCanarias](https://pythoncanarias.es) [![Twitter][1.1]][2]
 * [AWS Canarias](https://www.awscanarias.com/) [![Twitter][1.1]][3]
 * [CanariasJS](https://canariasjs.com/) [![Twitter][1.1]][4]
+
+## Otros
+* [Makerspace Hangar Kreitek](https://kreitek.org)
