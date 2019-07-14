@@ -1,7 +1,7 @@
 # Canarias
 
-## Eventos locales
-* [AWS Canarias](https://www.meetup.com/es-ES/AWS-Canarias-Meetup/)
+## :loudspeaker: Eventos locales
+* [:spiral_calendar: AWS Canarias](https://www.meetup.com/es-ES/AWS-Canarias-Meetup/)
 * [TenerifeDev](https://www.meetup.com/es-ES/TenerifeDev/)
 * [GDG Tenerife](https://www.meetup.com/es-ES/GDG-Tenerife/)
 * [GDG GranCanaria](https://www.meetup.com/es-ES/gdg-grancanaria/)
@@ -9,7 +9,7 @@
 * [CanariasDev](https://www.meetup.com/es-ES/Canarias-dev/)
 * [PythonCanarias](https://pythoncanarias.es/events/)
 
-## Eventos anuales
+## :calendar: Eventos anuales
 
 Lista de eventos que se celebran todos los años en Canarias y de los que puedes ir preparándote para participar como ponente:
 
@@ -19,12 +19,11 @@ Lista de eventos que se celebran todos los años en Canarias y de los que puedes
 * [JSDayCanarias](https://jsdaycanarias.com/)
 
 ## Comunidades
-
 [1]:https://twitter.com/adalovedev
 [2]:https://twitter.com/pythoncanarias
 [3]:https://twitter.com/awscanarias
 [4]:https://twitter.com/canariasjs
-[1.1]:http://i.imgur.com/tXSoThF.png
+[1.1]:http://i.imgur.com/wWzX9uB.png
 
 * [CanariasDev](https://canarias-dev.github.io/) 
 * [AdaLoveDev](http://adalovedev.es) [![Twitter][1.1]][1]
