@@ -19,10 +19,15 @@ Lista de eventos que se celebran todos los años en Canarias y de los que puedes
 * [JSDayCanarias](https://jsdaycanarias.com/)
 
 ## Comunidades
+
 [1]:https://twitter.com/adalovedev
+[2]:https://twitter.com/pythoncanarias
+[3]:https://twitter.com/awscanarias
+[4]:https://twitter.com/canariasjs
+[1.1]:http://i.imgur.com/tXSoThF.png
 
 * [CanariasDev](https://canarias-dev.github.io/) 
-* [AdaLoveDev](http://adalovedev.es) - [![Twitter][1]]
-* [PythonCanarias](https://pythoncanarias.es) - [Twitter](https://twitter.com/pythoncanarias)
-* [AWS Canarias](https://www.awscanarias.com/) - [Twitter](https://twitter.com/awscanarias)
-* [CanariasJS](https://canariasjs.com/) - [Twitter](https://twitter.com/canariasjs)
+* [AdaLoveDev](http://adalovedev.es) [![Twitter][1.1]][1]
+* [PythonCanarias](https://pythoncanarias.es) [![Twitter][1.1]][2]
+* [AWS Canarias](https://www.awscanarias.com/) [![Twitter][1.1]][3]
+* [CanariasJS](https://canariasjs.com/) [![Twitter][1.1]][4]
