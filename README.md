@@ -1,5 +1,7 @@
 # Canarias
 
+Si quieres poner tu granito en este proyecto puedes ver como colaborar en el archivo [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## :loudspeaker: Eventos locales
 * [AWS Canarias](https://www.meetup.com/es-ES/AWS-Canarias-Meetup/)
 * [TenerifeDev](https://www.meetup.com/es-ES/TenerifeDev/)
