@@ -1,7 +1,7 @@
 # Canarias
 
 ## :loudspeaker: Eventos locales
-* [:spiral_calendar: AWS Canarias](https://www.meetup.com/es-ES/AWS-Canarias-Meetup/)
+* [AWS Canarias](https://www.meetup.com/es-ES/AWS-Canarias-Meetup/)
 * [TenerifeDev](https://www.meetup.com/es-ES/TenerifeDev/)
 * [GDG Tenerife](https://www.meetup.com/es-ES/GDG-Tenerife/)
 * [GDG GranCanaria](https://www.meetup.com/es-ES/gdg-grancanaria/)
@@ -15,10 +15,11 @@ Lista de eventos que se celebran todos los años en Canarias y de los que puedes
 
 * [TLPInnova](https://tlp-tenerife.com/tlpinnova/)
 * [AdaLoversConf](http://adaloversconf.es)
-* [PythonCanarias](https://pythoncanarias.es/)
 * [JSDayCanarias](https://jsdaycanarias.com/)
+* [PyDay](pycan.es/pyday)
+* [WTM Tenerife](http://cryptull.webs.ull.es/WTMTenerife2019/)
 
-## Comunidades
+## :computer: Comunidades
 [1]:https://twitter.com/adalovedev
 [2]:https://twitter.com/pythoncanarias
 [3]:https://twitter.com/awscanarias
