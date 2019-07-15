@@ -1,5 +1,7 @@
 # Canarias
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
 Si quieres poner tu granito en este proyecto puedes ver como colaborar en el archivo [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## :loudspeaker: Eventos locales
@@ -36,3 +38,21 @@ Lista de eventos que se celebran todos los años en Canarias y de los que puedes
 
 ## Otros
 * [Makerspace Hangar Kreitek](https://kreitek.org)
+
+
+<!-- Do not translate this title to keep the number of contributors updated in the badge -->
+## Contributors
+
+Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/yodra"><img src="https://avatars0.githubusercontent.com/u/7188403?v=4" width="100px;" alt="Yodra"/><br /><sub><b>Yodra</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/canarias/commits?author=yodra" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Este proyecto sigue la descripción de [all-contributors](https://github.com/all-contributors/all-contributors). ¡Bienvenidas las contribuciones de cualquier tipo!
